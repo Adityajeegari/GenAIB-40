@@ -1,1 +1,1 @@
-# GenAI-B40
+# GenAIB-40
